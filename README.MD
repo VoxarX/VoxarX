@@ -1,8 +1,10 @@
-<img src="./assets/laughing.gif" width="25%" align="right" alt="Luffy laughing" />
+<img src="./assets/laughing.gif" width="32%" align="right" hspace="20" alt="Luffy laughing" />
 
 ### Hey, I'm Voxar.
 
 Just someone who enjoys making things and figuring out how they work.
+
+<br>
 
 <pre>
 💻 Programming & software development
@@ -11,6 +13,8 @@ Just someone who enjoys making things and figuring out how they work.
 🛠️ C# • Rust • Python • JavaScript
 🌱 Always learning something new
 </pre>
+
+<br>
 
 Thanks for stopping by :)
 
