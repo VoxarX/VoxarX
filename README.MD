@@ -6,7 +6,7 @@
   alt="Luffy laughing"
 />
 
-## Hey, I'm Voxar 👋
+### Hey, I'm Voxar 👋
 
 Developer & designer who likes building things and figuring out how they work.
 
