@@ -1,10 +1,12 @@
 <img
   src="./assets/laughing.gif"
-  width="220"
+  width="320"
   align="right"
   hspace="20"
   alt="Luffy laughing"
 />
+
+<br><br><br><br><br><br>
 
 <h3>Hey, I'm Voxar 👋</h3>
 
@@ -31,10 +33,3 @@ and figuring out how they work.
 </p>
 
 <br clear="right">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=U0ACZLZFMPT&theme=dark&show_labels=true">
-  <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=U0ACZLZFMPT&theme=dark&show_labels=true" width="100%">
-</picture>
-
-<sub>⏱️ Coding activity · tracked with Hackatime</sub>
