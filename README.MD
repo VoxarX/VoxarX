@@ -1,4 +1,4 @@
-<img src="./laughing.gif" width="25%" align="right" alt="Luffy laughing" />
+<img src="./assets/laughing.gif" width="25%" align="right" alt="Luffy laughing" />
 
 ### Hey, I'm Voxar.
 
