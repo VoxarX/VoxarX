@@ -6,7 +6,7 @@
   alt="Luffy laughing"
 />
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 <h3>Hey, I'm Voxar 👋</h3>
 
@@ -28,7 +28,7 @@ and figuring out how they work.
 </p>
 
 <p>
-<a href="https://voxar.dev"><b>Website</b></a> &nbsp;·&nbsp; <a href="https://www.npmjs.com/~voxar7"><b>Npmjs</b></a><br>
+<a href="https://voxar.dev"><b>Website</b></a> &nbsp;·&nbsp; <a href="https://www.npmjs.com/~voxar7"><b></b></a><br>
 <sub>🌱 Always learning something new</sub>
 </p>
 
