@@ -6,7 +6,7 @@
   alt="Luffy laughing"
 />
 
-### Hey, I'm Voxar 👋
+## Hey, I'm Voxar 👋
 
 Developer & designer who likes building things and figuring out how they work.
 
@@ -18,6 +18,7 @@ Developer & designer who likes building things and figuring out how they work.
 
 **[voxar.dev](https://voxar.dev)** · **[GitHub](https://github.com/VoxarDev)**
 
+### Hackclub Heatmap
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=U0ACZLZFMPT&theme=dark">
   <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=U0ACZLZFMPT&theme=dark" width="480">
