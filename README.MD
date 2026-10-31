@@ -1,5 +1,5 @@
 <img
-  src="./assets/Laughing.gif"
+  src="./assets/laughing.gif"
   width="320"
   align="right"
   hspace="20"
